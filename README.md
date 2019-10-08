@@ -9,7 +9,7 @@ Python Implementation for getting latest Socks Proxy list
 - Selenium
 
 ## Usage
-- Run as `python socks_proxy.py'
+- Run as `python socks_proxy.py`
 - Run as `python sochks_proxy1.py`
 
 ## Contributor
