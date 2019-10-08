@@ -10,7 +10,7 @@ Python Implementation for getting latest Socks Proxy list
 
 ## Usage
 - Run as `python socks_proxy.py`
-- Run as `python sochks_proxy1.py`
+- Run as `python socks_proxy1.py`
 
 ## Contributor
 - [Apurv Singh Gautam](https://github.com/apurvsinghgautam)
